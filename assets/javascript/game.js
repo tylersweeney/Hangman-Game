@@ -44,6 +44,8 @@ function startGame(){
 	console.log(blanksAndSuccesses);
 }
 
+$("#theme").prop("volume", 0.2);
+
 function checkLetters(letter){
 	//Check if letter exists in code at all
 

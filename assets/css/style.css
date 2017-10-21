@@ -2,8 +2,26 @@ body{
 	background-color:#375084;
 }
 
+#logo{
+	display: block;
+	margin: auto;
+	max-width:65%;
+}
 .jumbotron{
-	margin-top: 100px;
+	margin-top:-150px;
 	text-align: center;
 	background-color: #8c3961;
+}
+
+#guessBox{
+	text-align: center;
+}
+
+.container2{
+	background-color: #8c3961;
+	text-align:center;
+}
+
+#myCarousel{
+	margin-top:150px;
 }
